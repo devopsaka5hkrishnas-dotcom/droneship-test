@@ -1,0 +1,1 @@
+- 2026-11-05: Started. progress.md was empty; no planned or shipped items recorded yet.
