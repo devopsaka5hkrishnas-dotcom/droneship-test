@@ -2,3 +2,4 @@
 - 2026-11-05 (5bf56274): Conversation had no task, only a sign-off instruction. Still no planned or shipped items recorded.
 - 2026-11-09 (1de27e0f): Asked for weekly marketing report. No shipped/planned items or metrics available anywhere in the repo; reported that instead of inventing content. Need inputs from the team.
 - 2026-11-16 (0f19accc): Weekly report requested again. Still no shipped/planned items or metrics in repo; reported that, no content invented. Still need team inputs.
+- 2026-11-23 (8cef1763): Weekly report requested a third time. Repo unchanged: no shipped/planned items or metrics. Reported that, nothing invented. Still need team inputs (shipped items, links, metrics source).
